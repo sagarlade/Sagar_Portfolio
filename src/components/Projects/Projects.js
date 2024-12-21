@@ -69,9 +69,10 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="#"
+              title="Portfolio Website"
+              description="Crafting innovative, user-friendly web solutions with expertise in Full Stack Development and a passion for creativity."
+              ghLink="https://github.com/sagarlade/Sagar_Portfolio"
+              demoLink="https://sagar-portfolio-ten.vercel.app/"
              
             />
           </Col>
